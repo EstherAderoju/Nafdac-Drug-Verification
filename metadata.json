@@ -1,0 +1,6 @@
+{
+  "name": "NAFDAC Drug Verification & Authenticity Screener",
+  "description": "AI-assisted pharmaceutical product verification and suspicious drug screening tool using NAFDAC reference database, barcode scanning, OCR packaging analysis, and explainable rule & ML scoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
